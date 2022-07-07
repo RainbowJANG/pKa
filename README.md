@@ -1,7 +1,6 @@
 # $pK_{a}$  $Calculation$
 
 
-Take Mol No.1 as an example pKa calculation. 
 
 RI-DSD-PBEP86/aug-cc-pVTZ in SMD and SM12 solvation models were applied.
 
